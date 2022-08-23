@@ -3,6 +3,8 @@ ALE
 Alfredo
 ### AHORA SIIIIIII (SOY AUGUSTO)
 
+<<<<<<< HEAD
+
 ``` sh
                AAA                                                                                              tttt                           
               A:::A                                                                                          ttt:::t                           
@@ -28,3 +30,6 @@ AAAAAAA                   AAAAAAA uuuuuuuu  uuuu    gggggggg::::::g     uuuuuuuu
                                                     ggg::::::ggg                                                                               
                                                        gggggg                                                                                  
 ```
+=======
+
+>>>>>>> ba05a80e9d9f5804e1272d3d57cd4396ee6c8bd9
